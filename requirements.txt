@@ -8,7 +8,6 @@ dnspython==2.6.1
 Flask==3.0.3
 Flask-Cors==5.0.0
 Flask-PyMongo==2.3.0
-pip cache purge
 future==0.18.2
 googletrans==4.0.0rc1
 gunicorn==23.0.0
@@ -23,15 +22,12 @@ idna==2.10
 importlib_metadata==8.5.0
 itsdangerous==2.2.0
 Jinja2==3.1.4
-macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==2.1.5
 packaging==24.1
 pymongo==4.8.0
 python-dotenv==1.0.1
 rfc3986==1.5.0
-six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
 sniffio==1.3.1
 urllib3==2.2.3
 Werkzeug==3.0.4
 zipp==3.20.2
-gunicorn
