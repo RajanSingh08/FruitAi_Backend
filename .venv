@@ -1,0 +1,4 @@
+MONGO_URI="mongodb+srv://rajansingh2003rs:pr8KgaXLnFhItpC3@cluster0.7lxly.mongodb.net/<dbname>?retryWrites=true&w=majority"
+CLOUDINARY_CLOUD_NAME="dvxerazfh"
+CLOUDINARY_API_KEY="298156755513339"
+CLOUDINARY_API_SECRET="2jR2Nts2La0FZMubkin4GEVHgyM"

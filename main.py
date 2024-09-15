@@ -9,6 +9,7 @@ import cloudinary
 import cloudinary.uploader
 from cloudinary.utils import cloudinary_url
 from googletrans import Translator
+
 app = Flask(__name__)
 translator = Translator()
 CORS(app)
@@ -159,5 +160,3 @@ def translate_text():
 
 if __name__ == '__main__':
     app.run(debug=True,port=8080)
-
-    
